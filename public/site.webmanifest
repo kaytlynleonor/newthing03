@@ -1,0 +1,17 @@
+{
+  "name": "KAYTLYN LEONOR — MODERN LUXURY & INTENTIONAL CRAFT",
+  "short_name": "KAYTLYN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F1EB",
+  "theme_color": "#11100E",
+  "icons": [
+    {
+      "src": "/Elegant%20Gold%20KL%20Monogram%20on%20Leopard%20Fur.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

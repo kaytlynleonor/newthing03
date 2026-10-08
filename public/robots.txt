@@ -1,0 +1,14 @@
+# KAYTLYN LEONOR Robots.txt
+User-agent: *
+Allow: /
+Allow: /shop
+Allow: /collections/
+Allow: /products/
+Allow: /journal/
+
+Disallow: /cart
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+
+Sitemap: https://kaytlynleonor.com/sitemap.xml
